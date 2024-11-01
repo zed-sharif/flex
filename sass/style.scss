@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+    background:radial-gradient(circle,pink,blue);
+    color: white;
+}
+img{
+    max-width: 100%;
+}
+.link:hover{
+background-color: red;
+color: white;
+}
+.link:link{
+    color: white;
+}
+.link:active{
+    color: white;
+}
+.link:visited{
+    color: white;
+}
+li{
+    display: inline;
+}
+.img{
+    max-width: 100%;
+    border: 50rem;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
